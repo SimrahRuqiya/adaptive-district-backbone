@@ -1,0 +1,2 @@
+Model,Features,Training rows,Testing rows,Training time (seconds),Best iteration,Accuracy,Macro F1,Weighted F1,Balanced accuracy
+CatBoost RIT-compatible,39,28980,7452,8.805637121200562,241,0.8340042941492217,0.700735194569213,0.8322064831744282,0.6849553017213179
